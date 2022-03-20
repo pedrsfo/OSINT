@@ -21,7 +21,7 @@ Coletânea de ferramentas OSINT
 ## Buscadores Dark Net
 * BACKUP TOR -> torlinksd6pdnihy.onion
 * The Hidden Wiki -> zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-* duckduckgo -> 3g2upl4pq6kufc4m.onion
+* DuckDuckGo -> 3g2upl4pq6kufc4m.onion
 * Ahmia -> juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion
 * Torch -> xmh57jrzrnw6insl.onion
 * Library Genesis -> genotypeinczgrxr.onion (LIVRARIA)
@@ -33,12 +33,12 @@ Coletânea de ferramentas OSINT
 * Archive -> https://archive.org
 
 ## Threat Intelligence
-* socradar -> https://socradar.io/the-ultimate-list-of-free-and-open-source-threat-intelligence-feeds/
-* threatcrownd -> https://threatcrowd.org/
-* otx -> https://otx.alienvault.com/browse
-* misp -> https://www.misp-project.org/
-* threatminer -> https://www.threatminer.org/ 
-* openphish -> https://openphish.com/ 
-* phishtank -> https://phishtank.org/
-* urlscan -> https://urlscan.io/
-* virustutal -> https://www.virustotal.com/gui/home/upload
+* Socradar -> https://socradar.io/the-ultimate-list-of-free-and-open-source-threat-intelligence-feeds/
+* Threatcrownd -> https://threatcrowd.org/
+* Otx -> https://otx.alienvault.com/browse
+* Misp -> https://www.misp-project.org/
+* Threatminer -> https://www.threatminer.org/ 
+* Openphish -> https://openphish.com/ 
+* Phishtank -> https://phishtank.org/
+* Urlscan -> https://urlscan.io/
+* Virustutal -> https://www.virustotal.com/gui/home/upload
