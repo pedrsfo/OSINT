@@ -1,4 +1,4 @@
-# OSINT
+# OSINT 🔎
 Coletânea de ferramentas OSINT
 
 ## Ferramenta para mapeamento OSINT
