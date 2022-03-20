@@ -38,7 +38,7 @@ Coletânea de ferramentas OSINT
 * otx -> https://otx.alienvault.com/browse
 * misp -> https://www.misp-project.org/
 * threatminer -> https://www.threatminer.org/ 
-* openpish -> https://openphish.com/ 
-* pishtank -> https://phishtank.org/
+* openphish -> https://openphish.com/ 
+* phishtank -> https://phishtank.org/
 * urlscan -> https://urlscan.io/
 * virustutal -> https://www.virustotal.com/gui/home/upload
